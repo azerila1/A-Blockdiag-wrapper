@@ -1,0 +1,8 @@
+node_id;directed_to;direction_type;edge_label;label;node_flag;shape;stacked;linecolor;color;style;textcolor;width;height;fontsize;numbered;description;percentagebackground;group
+0;1;towards;100%;label_0;se;box;;#a9a9a9;#a9a9a9;;white;;;10;;;;
+1;2,5;normal,normal;99%,2%;label_1;us;box;;#a9a9a9;#a9a9a9;;white;;;10;;;;
+2;3;normal;70%;label_2;ie;box;;#a9a9a9;#a9a9a9;;white;;;10;;;;
+3;4, 5;towards,towards; 85%, ;label_3;;box;;#a9a9a9;#a9a9a9;;white;;;10;;;;
+4;;;;label_4;eu;box;;#a9a9a9;#a9a9a9;;white;;;10;;;;
+5;6;bidirectional;25%;label_5;ch;box;;#a9a9a9;#a9a9a9;;white;;;10;;;;
+6;;;;label_6;ca;box;;#a9a9a9;#a9a9a9;;white;;;10;;;;
