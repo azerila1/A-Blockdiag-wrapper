@@ -14,3 +14,6 @@ The external dependencies until now:
 
 <img src="sample diagrams/image1.jpg">
 <img src="sample diagrams/image2.jpg">
+
+
+This wrapper takes a csv file as input, a sample of which is shown in "sample.csv"
